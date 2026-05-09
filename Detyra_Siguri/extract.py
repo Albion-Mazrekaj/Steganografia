@@ -3,7 +3,7 @@ import random
 
 # 1. KONFIGURIMI I SISTEMIT
 # Çelësi për randomizimin e pikselave 
-key = 12345
+key = 2026
 
 # Kanali i ngjyrës që është përdorur (0=Red, 1=Green, 2=Blue)
 colourPlane = 0
