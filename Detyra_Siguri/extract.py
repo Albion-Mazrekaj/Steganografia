@@ -12,7 +12,7 @@ colourPlane = 0
 significantBit = 7
 
 # Imazhi i steganografuar
-stegoImage = "stego-img.bmp"
+stegoImage = "Detyra_Siguri/stego-img.bmp"
 
 
 # 2. LEXIMI I IMAZHIT
