@@ -12,13 +12,13 @@ colourPlane = 0
 significantBit = 7
 
 # Imazhi bazë (cover image)
-coverImage = "img/flowers.bmp"
+coverImage = "Detyra_Siguri/img/flowers.bmp"
 
 # File që përmban mesazhin sekret
-secretFile = "secret.txt"
+secretFile = "Detyra_Siguri/secret.txt"
 
 # Imazhi i output-it me mesazhin e fshehur
-outputImage = "stego-img.bmp"
+outputImage = "Detyra_Siguri/stego-img.bmp"
 
 
 # 2. LEXIMI I TË DHËNAVE
